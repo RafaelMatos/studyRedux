@@ -1,4 +1,4 @@
-# React + Redux + Zustand💈
+# React + Redux + Zustand ⚛ 
 
 Repositorio destinado ao estudo de uso do Redux no React no curso da Rocketseat
 
@@ -11,14 +11,16 @@ Repositorio destinado ao estudo de uso do Redux no React no curso da Rocketseat
 - Typescript
 - Redux
 - React Redux
+- TailwindCSS
+- React Player
 
 ## Atualizações 🔃
 
   - A base do Redux: fundamentos, store e actions
-  <!-- - <details>
-    <summary>Adicionada funcionalidade de cancelamento de agendamento</summary>
-    <img src='https://github.com/RafaelMatos/projectsImages/blob/master/FSWBarber/printscreens/update-cancel-booking.gif?raw=true' alt='gif de atualização da aplicação FSW Barber'>
-    </details> -->
+  - <details>
+    <summary>Criada a interface da aplicação</summary>
+    <img src='https://github.com/RafaelMatos/projectsImages/blob/master/Redux/printscreens/tela.png?raw=true' alt='gif de atualização da aplicação FSW Barber'>
+    </details>
 
 
 
